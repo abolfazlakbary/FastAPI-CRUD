@@ -1,0 +1,1 @@
+## A simple CRUD project with mysql database and fastapi
